@@ -1,0 +1,10 @@
+This is a test file.
+It has multiple lines.
+Some lines contain the word test.
+TEST in caps.
+another line with TEST.
+This line is for context.
+And one more for context.
+A line with a different word.
+another different line
+last line test
